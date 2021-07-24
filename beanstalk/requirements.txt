@@ -1,0 +1,7 @@
+Flask==1.1.2
+
+opentelemetry-api
+opentelemetry-semantic-conventions
+opentelemetry-instrumentation
+opentelemetry-sdk
+opentelemetry-sdk-extension-aws
